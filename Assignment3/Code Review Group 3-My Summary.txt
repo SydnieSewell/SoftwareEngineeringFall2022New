@@ -1,0 +1,73 @@
+﻿Feedback from Reviewers
+
+
+Feedback for Sydnie: (From Christian)
+* I like your use of ample comments throughout your code to explain all of the functionality
+   * The only thing I would suggest is to use JSDoc formatted comments for your functions (This is a change assignment 3 has us do anyway)
+   * Also for the create hashmap function you can do this using j for the for loop instead of wordlength for linting purposes (A change you might also make bc of assignment 3)
+   *      * Your variable and function naming conventions all make sense
+
+
+
+
+
+
+Feedback for Christian:(From Sydnie)
+-I really like the comments at the beginning of the program. They are clear and concise.
+-Your function and variable name are pretty clear and well-chosen
+-The only thing I would say is, maybe you could include 1 to 2 comments to describe each function so we the reader can easily be able to grasp the purpose of the function.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback that I will be changing for my new program
+
+
+Based on the feedback, I have began to implement a few improvements in my boggle_solver code.I decided to work on the following points that I derived from Christian’s review as well as the errors I have received from the lint tester.
+
+
+   * Improving the comments and implementing the JSDOC comments to pass the lint tester
+   * Removing the trailing spaces
+   * Trying to adjust variable names to avoid exceeding the word length per line
+   * Also, editing the first comment in my code to reflect the purpose of the program
+   * Using the –fix option in codio to get rif of trailing space
